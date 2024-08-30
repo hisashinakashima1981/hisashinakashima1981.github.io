@@ -334,6 +334,10 @@ form h3::after{
     height: 30px;
     margin: auto;
 }
+
+.res-agreement *{
+    width: auto;
+}
 /* 9.footer area */
 .footer{
     background-image: url('../images/footer-img.jpg');
